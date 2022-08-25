@@ -1,0 +1,48 @@
+body{
+    background-color: #3f4148;
+    box-sizing: border-box;
+}
+.container{
+    background-color: #3f4148;
+    height: 93vh;
+}
+.column{
+    text-align: left;
+    height:50%;
+    width:33vw;
+}
+.col{
+    text-align: left;
+}
+.col-flex{
+    display: flex;
+}
+
+.title1 {
+    color: white;
+    font-size: 1.2rem;
+    color: white;
+    display: inline-block;
+    background-color: #65676d;
+    width: 5em;
+    height: 1.4em;
+    border-radius: 10px;
+    padding: .1em .1em .1em .2em;
+}
+.lab1_title {
+    color: rgba(255,255,255,0.7);
+    font-size: 1rem;
+}
+.div_wrap_data1{
+    text-align: center;
+    margin-right:1rem;
+    margin-bottom:1rem;
+}
+.lab1_tieleS {
+    color: rgba(255,255,255,0.7);
+    font-size: .8rem;
+}
+.lab1_data {
+    font-size: 1rem;
+    color: rgba(255,255,255,0.9);
+}

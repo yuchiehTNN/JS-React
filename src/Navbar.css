@@ -1,0 +1,12 @@
+.div_bar {
+    background-color: #35353c;
+    top: 0;
+    height: 5vh;
+    text-align: left;
+}
+#p_title {
+    color: white;
+    font-size: 1.5rem;
+    margin-top: 0;
+    margin-left: .5em;
+}
